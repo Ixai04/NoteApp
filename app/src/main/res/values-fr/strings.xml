@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="title_activity_detail">"Des détails "</string>
+    <string name="notanuevatitulo">" Nouvelle note"</string>
+    <string name="toastguardarnota">Action annulée</string>
+    <string name="toastcancelarnota">" Action annulée"</string>
+    <string name="toastnotanueva">" Remarque enregistrée"</string>
+    <string name="toastnotaeditada">" Remarque créée"</string>
+    <string name="toastborrarnota">" Remarque supprimée"</string>
+    <string name="tutorial">" Ajoutez des notes à l'aide du bouton +"</string>
+    <string name="titulovacio">" Le titre ne peut pas être vide"</string>
+    <string name="titulosugerido">" Titre"</string>
+    <string name="textosugerido">"Texte "</string>
+</resources>

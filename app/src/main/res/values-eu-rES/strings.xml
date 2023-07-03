@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="tutorial">" Gehitu oharrak + botoia erabiliz"</string>
+    <string name="title_activity_detail">Xehetasunak</string>
+    <string name="notanuevatitulo">"Ohar Berria "</string>
+    <string name="toastcancelarnota">Baliogabetutako ekintza</string>
+    <string name="toastguardarnota">" Oharra Gordea"</string>
+    <string name="toastnotanueva">Sortutako Oharra</string>
+    <string name="toastnotaeditada">" Editatutako Oharra"</string>
+    <string name="toastborrarnota">" Ezabatutako Oharra"</string>
+    <string name="titulovacio">" Izenburua ezin da hutsik egon"</string>
+    <string name="titulosugerido">Izenburua</string>
+    <string name="textosugerido">" Testua"</string>
+</resources>

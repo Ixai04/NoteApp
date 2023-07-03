@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.23692307692307693" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/drawable/ic_check_black_24dp.xml" value="0.23692307692307693" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/drawable/ic_delete_black_24dp.xml" value="0.23692307692307693" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/drawable/ic_edit_black_24dp.xml" value="0.23692307692307693" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23692307692307693" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/font/aladin.xml" value="0.2388888888888889" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/layout/activity_add_note.xml" value="0.22447916666666667" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/layout/activity_crear_nota.xml" value="0.25" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/layout/activity_detalles.xml" value="0.21" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/layout/activity_editar.xml" value="0.13903985507246377" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/layout/content_detail.xml" value="0.22" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/layout/content_detalles.xml" value="0.22447916666666667" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/layout/custom_list_view.xml" value="0.25" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/layout/visualizar_nota.xml" value="0.13903985507246377" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/menu/edit_menu.xml" value="0.33" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/menu/main_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/menu/save_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20677083333333332" />
+        <entry key="..\:/Proyectos Android Studio/NoteApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20677083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

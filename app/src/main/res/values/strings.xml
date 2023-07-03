@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="title_activity_detail">Detalles</string>
+    <string name="notanuevatitulo">Nota Nueva</string>
+    <string name="toastcancelarnota">Acción Cancelada</string>
+    <string name="toastguardarnota">Nota Guardada</string>
+    <string name="toastnotanueva">Nota Creada</string>
+    <string name="toastnotaeditada">Nota Editada</string>
+    <string name="toastborrarnota">Nota Borrada</string>
+    <string name="tutorial">Añade notas usando el boton +</string>
+    <string name="titulovacio">El título no puede estar vacio</string>
+    <string name="titulosugerido">Título</string>
+    <string name="textosugerido">Texto</string>
+</resources>

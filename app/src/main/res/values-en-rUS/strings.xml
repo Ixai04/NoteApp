@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="notanuevatitulo">New Note</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="toastcancelarnota">"Action Canceled "</string>
+    <string name="toastguardarnota">Note Saved</string>
+    <string name="toastnotanueva">"Note Created "</string>
+    <string name="toastnotaeditada">Note Edited</string>
+    <string name="toastborrarnota">Note Deleted</string>
+    <string name="tutorial">" Add notes using the button +"</string>
+    <string name="titulovacio">" The title cannot be empty"</string>
+    <string name="textosugerido">Text</string>
+    <string name="titulosugerido">Title</string>
+</resources>

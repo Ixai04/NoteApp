@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="title_activity_detail">Podrobnosti</string>
+    <string name="notanuevatitulo">Nová poznámka</string>
+    <string name="toastcancelarnota">"Akce zrušena "</string>
+    <string name="toastguardarnota">" Poznámka Uložena"</string>
+    <string name="toastnotanueva">" Poznámka Vytvořeno"</string>
+    <string name="toastnotaeditada">" Poznámka Upraveno"</string>
+    <string name="toastborrarnota">" Poznámka Smazáno"</string>
+    <string name="tutorial">" Přidávejte poznámky pomocí tlačítka +"</string>
+    <string name="titulosugerido">" Titul"</string>
+    <string name="titulovacio">" Název nemůže být prázdný"</string>
+    <string name="textosugerido">" Text"</string>
+</resources>
